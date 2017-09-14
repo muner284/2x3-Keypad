@@ -1,2 +1,4 @@
 # 2x3-Keypad
-2x3 Keypad function and testing on 20x4 LCD( 4-bit Mode)
+2x3 Keypad function and testing on 20x4 LCD (4-bit Mode)
+Works well using TivaWare API's
+
